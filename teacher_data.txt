@@ -1,0 +1,6 @@
+ID            PIN           NAME     DEPARTMENT         COURSE         COURSE         COURSE
+prof_1             00            MAX           BSCS            OOP            OOP            LAB
+prof_2             11           JOHN            A&F     ACCOUNTING       AUDITING          STATS
+prof_3             22            SAM           BSCS    PROBABILITY          STATS       CALCULUS
+prof_4             33          JAWAD           BSAI  CYBERSECURITY       DISCRETE          MATHS
+prof_5             44          SAMER           BSCS            DSA            DLD            OOP

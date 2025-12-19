@@ -1,0 +1,4 @@
+ENROLLMENT           NAME       SEMESTER        SECTION     DEPARTMENT      FEECHALAN       PASSWORD
+065          SAMER              2              A           BSCS       1,79,000             00
+058          JAWAD              2              A           BSCS       1,80,000             11
+47         HASSAN               3              B           BSAI       1,60,000             22
